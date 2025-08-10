@@ -8,12 +8,12 @@ h1{
 }
 
 img {
-    width: 100px;
+    width: 200px;
     height: auto;
 }
 
 a:hover {
-    color:blue;
+    color:red;
 }
 
 .aboutme {
