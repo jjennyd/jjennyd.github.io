@@ -8,7 +8,7 @@ h1{
 }
 
 img {
-    width: 200px;
+    width: 300px;
     height: auto;
 }
 
@@ -24,6 +24,12 @@ a:hover {
 
 .workexp {
     background-color: aquamarine;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.bambiimg {
+    background-color: pink;
     border: 2px solid black;
     margin: 10px;
 }
