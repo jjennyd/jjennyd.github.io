@@ -1,5 +1,5 @@
-body{
-    background-color: lightblue;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1{
@@ -8,7 +8,7 @@ h1{
 }
 
 img {
-    width: 200px;
+    width: 100px;
     height: auto;
 }
 
@@ -18,13 +18,13 @@ a:hover {
 
 .aboutme {
     background-color: lightskyblue;
-    border: 2px black;
+    border: 2px solid black;
     margin: 10px;
 }
 
 .workexp {
     background-color: aquamarine;
-    border: 2px black;
+    border: 2px solid black;
     margin: 10px;
 }
 
