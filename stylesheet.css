@@ -7,8 +7,27 @@ h1{
     text-align: center;
 }
 
-p {
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 20px;
+img {
+    width: 200px;
+    height: auto;
 }
 
+a:hover {
+    color:blue;
+}
+
+.aboutme {
+    background-color: lightskyblue;
+    border: 2px black;
+    margin: 10px;
+}
+
+.workexp {
+    background-color: aquamarine;
+    border: 2px black;
+    margin: 10px;
+}
+
+#title {
+    font-size: 35px;
+}
